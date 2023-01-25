@@ -1,20 +1,30 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+arreglos
+Vectores 
+    -Unidimensionales
+    -bidimensionales 
+Indices -> 0
+
+//UNIDIMENSIONALES
  */
 package pkg13.vectoresdeclaracion.asignacion;
 
-/**
- *
- * @author eli
- */
 public class VectoresDeclaracionAsignacion {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        //Declaracion //inicializacion
+        int vector[] = new int[4];
+        //indice 0 1 2 3
+        
+        //asignacion -manual-
+        vector[0]=2;
+        vector[1]=35;
+        vector[2]=48;
+        vector[3]=157;
+        
+        //Es un conjunto de variable con el mismo tipo de dato
+        
     }
     
 }
